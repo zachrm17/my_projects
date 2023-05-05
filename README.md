@@ -1,2 +1,1 @@
-# my_projects
-Projects and programs I have worked on.
+All of the notable Java projects I have worked on and their source code.
